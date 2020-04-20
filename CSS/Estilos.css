@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Libre+Franklin&display=swap');
 
+
 body{
-    background:white;
+    background: whitesmoke;
     font-family: 'Libre Franklin', sans-serif;
 }
 
@@ -63,7 +64,7 @@ h1{
     text-align: center;
     color: black;
     line-height: ;
-    background:white;
+    background:whitesmoke;
 }
    
 
@@ -75,15 +76,40 @@ footer{
 
 
  header{
-      background:white;
+      background:whitesmoke;
      }
 
     
     .t2 {
         color: black;
+        display: inline-block;
+        max-width: 65%;
+       
         
     }
     .t1{
-        background:white;
+        background:whitesmoke;
         color: black;
     }
+
+
+  
+    }
+
+
+   .contenedor{
+       background-color: whitesmoke;
+
+   }
+
+   aside{
+    
+    
+    display: inline-block;
+    max-width: 27%;
+ 
+ 
+    
+    
+
+}
